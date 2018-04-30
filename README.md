@@ -13,7 +13,7 @@ Team Member: [Songyou Peng], [Le Zhang], [Yutong Ban], [Meng Fang], [Stefan Wink
 
 ## Preprocessing
 Every video should be pre-processed as follows:
-* Extract to frames and apply [MTCNN] to align faces
+* Extract frames and apply [MTCNN] to align faces
 * Extract WAV files and calculate STFT
 
 
