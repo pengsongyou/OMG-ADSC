@@ -18,10 +18,6 @@ Every video should be pre-processed as follows:
 * Extract WAV files and calculate STFT
 
 
-
-
-Contact **Songyou Peng** [:envelope:](mailto:songyou.peng@adsc-create.edu.sg) for questions, comments and reporting bugs.
-
 ## Citation
 If you use the code (only for research), please consider citing our paper:
 ```sh
@@ -32,6 +28,8 @@ If you use the code (only for research), please consider citing our paper:
  booktitle = {arxiv},
 }
 ```
+Contact **Songyou Peng** [:envelope:](mailto:songyou.peng@adsc-create.edu.sg) for questions, comments and reporting bugs.
+
 
 [here]: <https://arxiv.org/abs/1805.00638>
 [MTCNN]: <https://arxiv.org/abs/1604.02878>
