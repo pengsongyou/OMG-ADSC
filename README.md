@@ -1,6 +1,7 @@
-# OMGEmoChallenge-ADSC
+# A Deep Network for Arousal-Valence Emotion Prediction with Acoustic-Visual Cues
 
-This repository contains our source code for [OMG Emotion Challenge 2018].
+This repository contains the source codes for our submissions to [OMG Emotion Challenge 2018].
+Method descriptions can be found [here].
 
 Team Member: [Songyou Peng], [Le Zhang], [Yutong Ban], [Meng Fang], [Stefan Winkler]
 
@@ -21,17 +22,18 @@ Every video should be pre-processed as follows:
 
 Contact **Songyou Peng** [:envelope:](mailto:songyou.peng@adsc-create.edu.sg) for questions, comments and reporting bugs.
 
-<!--## Citation-->
-<!--If you use the code (only for research), please consider citing our paper:-->
-<!--```sh-->
-<!--@inproceedings{blabla,-->
-<!-- author =  {ddd},-->
-<!-- title = {ddd},-->
-<!-- year = {2018},-->
-<!-- booktitle = {dd},-->
-<!--}-->
-<!--```-->
+## Citation
+If you use the code (only for research), please consider citing our paper:
+```sh
+@inproceedings{peng2018omg,
+ author =  {Peng, Songyou and Zhang, Le and Ban, Yutong and Fang, Meng and Winkler, Stefan},
+ title = {{A Deep Network for Arousal-Valence Emotion Prediction with Acoustic-Visual Cues}},
+ year = {2018},
+ booktitle = {arxiv},
+}
+```
 
+[here]: <https://arxiv.org/abs/1805.00638>
 [MTCNN]: <https://arxiv.org/abs/1604.02878>
 [PyTorch]: <http://pytorch.org/>
 [torchvision]: <http://pytorch.org/docs/master/torchvision/#module-torchvision>
